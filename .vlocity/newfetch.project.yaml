@@ -6,14 +6,22 @@ VlocityDataPackKeys:
     - CpqConfigurationSetup/CpqCachePvtKey
     - CpqConfigurationSetup/CpqNextPricingPlan
     - OmniScript/CPQ_AssetViewerOrderFlow_Multi-Language
-    - flexipages/DefaultAccountESMRecordPage1.flexipage
+    - lwc/cfCpqAdvancedSearchLineItem
+    - lwc/cfCpqAssetViewerAdvancedSearch
+    - lwc/cfCpqAssetViewerChildLineItem
     - lwc/cfCpqAssetViewerContainer
-    - profiles/Admin.profile
+    - lwc/cfCpqAssetViewerGroupLineItems
+    - lwc/cfCpqAssetViewerLineItem
+    - lwc/cfCpqAssetViewerSelectAllAssets
+    - lwc/cfCpqCartInlineChildPromoForAssetViewer
+    - lwc/cfCpqCartInlinePromoForAssetViewer
+    - lwc/cfCpqPromotionDetailViewForAssetViewer
+    - lwc/cfCpqSpinner
+    - lwc/cPQAssetViewerOrderFlowMultiLanguage
+    - lwc/cPQAssetViewerQuoteFlowMultiLanguage
 VlocityTypesToFetch:
     - CpqConfigurationSetup
     - OmniScript
     - VlocityCard
 SalesforceTypesToFetch:
-    - FlexiPage
     - LightningComponentBundle
-    - Profile
