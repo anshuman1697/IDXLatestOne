@@ -1,0 +1,19 @@
+Name: NewFetch
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - CpqConfigurationSetup/CPQ Cart Preview Modal Use API
+    - CpqConfigurationSetup/CPQ Toast Message Log Level
+    - CpqConfigurationSetup/CpqCachePvtKey
+    - CpqConfigurationSetup/CpqNextPricingPlan
+    - OmniScript/CPQ_AssetViewerOrderFlow_Multi-Language
+    - flexipages/DefaultAccountESMRecordPage1.flexipage
+    - lwc/cfCpqAssetViewerContainer
+    - profiles/Admin.profile
+VlocityTypesToFetch:
+    - CpqConfigurationSetup
+    - OmniScript
+    - VlocityCard
+SalesforceTypesToFetch:
+    - FlexiPage
+    - LightningComponentBundle
+    - Profile
