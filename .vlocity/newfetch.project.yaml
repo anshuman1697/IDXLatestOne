@@ -19,9 +19,13 @@ VlocityDataPackKeys:
     - lwc/cfCpqSpinner
     - lwc/cPQAssetViewerOrderFlowMultiLanguage
     - lwc/cPQAssetViewerQuoteFlowMultiLanguage
+    - objects/Idea/Idea.object
+    - profiles/Admin.profile
 VlocityTypesToFetch:
     - CpqConfigurationSetup
     - OmniScript
     - VlocityCard
 SalesforceTypesToFetch:
+    - CustomObject
     - LightningComponentBundle
+    - Profile

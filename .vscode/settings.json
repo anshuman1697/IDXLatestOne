@@ -4,5 +4,9 @@
     "**/bower_components": true,
     "**/.sfdx": true
   },
+<<<<<<< HEAD
   "vlocity.sfdxUsername": "test-k7xsspug4zca@example.com"
+=======
+  "vlocity.sfdxUsername": "anshumanmishra-7683105944@industryapps.com"
+>>>>>>> 6de4647 (profile and object)
 }
